@@ -1,41 +1,9 @@
 export const registerItems = [
     {
-        cardTitle: "Delhi",
-        cardText: ` Date: 14 October, 2022 |
-        Venue: Maharaja Agrasen Institute of Technology, Rohini, Delhi | 
-        In collaboration with GDSC`,
+        cardTitle: "Web 3.0 Fellowship",
+        cardText: `Registrations will start soon`,
         applyLink: "",
-        applyStatus:"Event Ended",
-        slug: "indiatourdelhi"
-    },
-    {
-        cardTitle: "Bangalore",
-        cardText: `Date: TBA | 
-        Venue: TBA`,
-        applyLink: "",
-        applyStatus:"Coming Soon",
-        slug: ""
-    },
-    {
-        cardTitle: "Chennai",
-        cardText: `Dates will be announced soon`,
-        applyLink: "",
-        applyStatus:"Coming Soon",
-        slug: ""
-    },
-    {
-        cardTitle: "Punjab",
-        cardText: ` Date: 18 November, 2022 |
-        Venue: Lovely Professional University, Punjab`,
-        applyLink: "",
-        applyStatus:"Event Ended",
-        slug: "indiatourpunjab"
-    },
-    {
-        cardTitle: "Jaipur",
-        cardText: `Dates will be announced soon`,
-        applyLink: "",
-        applyStatus:"Coming Soon",
+        applyStatus:"Register",
         slug: ""
     },
 ]
