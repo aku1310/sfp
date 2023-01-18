@@ -116,11 +116,9 @@ class Home extends Component {
                 <a name="about"></a>
                 <section className="body-content about-swoc" id="about">
                     <div className="about-content col-lg-7">
-                        <h3>About <span>India Tour of Open Source</span></h3>
+                        <h3>About <span>Social Fellowship Program</span></h3>
                         <p>
-                            India Tour Of Open is a tour to have a vision to have meet-ups,hackathon,workshops in one day and tour.
-                            The motive of this tour is to change the concept of offline events.
-                            This will happen for first time in India which will impact the community of open source and tech space of India.
+                            Coming Soon...
 
                         </p>
                         {/* <p>
@@ -156,25 +154,26 @@ class Home extends Component {
                                                 );
                                             })}
                                             <div className="btn-apply">
-                                                {item.cardTitle.toLowerCase() == "bangalore" ?
-                                                    (<div
+                                                 {/* {item.cardTitle.toLowerCase() == "web 3.0 fellowship" ? */}
+                                                    <div
                                                         class="apply-button"
-                                                        data-hackathon-slug="indiatourbangalore"
+                                                        data-hackathon-slug=""
                                                         data-button-theme="light"
-                                                    ></div>)
-                                                    :
+                                                    ></div>
+
+                                                    {/* // :
                                                     // (item.cardTitle.toLowerCase() == "punjab" ?
                                                     //     (<div
-                                                    //         class="apply-button"
-                                                    //         data-hackathon-slug="indiatourpunjab"
-                                                    //         data-button-theme="light"
-                                                    //     ></div>)
-                                                    //     :
+                                                            class="apply-button"
+                                                            data-hackathon-slug="indiatourpunjab"
+                                                            data-button-theme="light"
+                                                        ></div>)
+                                                        :
                                                         (<a href={item.applyLink} target="_blank"
                                                             className={item.applyStatus == "Apply" ? "" : "disabled"}
                                                             readonly>{item.applyStatus}
-                                                        </a>)
-                                                }
+                                                        </a>) */}
+                                                
                                                 {/* {buttonUnique(item)} */}
 
                                             </div>
