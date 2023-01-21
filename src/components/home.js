@@ -118,16 +118,26 @@ class Home extends Component {
                     <div className="about-content col-lg-7">
                         <h3>About <span>Social Fellowship Program</span></h3>
                         <p>
-                            The SFP, or Social Fellowship Program, is a community-driven initiative aimed at fostering the growth and development of the web3 ecosystem. We believe that by fostering collaboration and cooperation among members of the web3 community, we can help to build a more robust and resilient platform for the future of the internet.
+                            The SFP, or Social Fellowship Program, is a community-driven initiative aimed at fostering the 
+                            growth and development of the web3 ecosystem. We believe that by fostering collaboration and 
+                            cooperation among members of the web3 community, we can help to build a more robust and resilient 
+                            platform for the future of the internet.
                         </p>
                         <p>
-                            Our mission is to provide support and resources to individuals and organizations working on projects that align with the principles of web3, including decentralization, transparency, and community-driven development. We believe that by working together, we can help to advance the web3 ecosystem and bring about a more decentralized and open internet for all.
+                            Our mission is to provide support and resources to individuals and organizations working on 
+                            projects that align with the principles of web3, including decentralization, transparency, and 
+                            community-driven development. We believe that by working together, we can help to advance the 
+                            web3 ecosystem and bring about a more decentralized and open internet for all.
                         </p>
                         <p>
-                            Our program includes a variety of activities and initiatives, including mentorship, networking, and educational resources. We also host regular meetups and events to bring members of the community together and foster collaboration and learning.
+                            Our program includes a variety of activities and initiatives, including mentorship, networking, 
+                            and educational resources. We also host regular meetups and events to bring members of the 
+                            community together and foster collaboration and learning.
                         </p>
                         <p>
-                            If you're interested in getting involved with the SFP and contributing to the growth of the web3 ecosystem, we encourage you to reach out and join our community today. Together, we can build a better internet for all.
+                            If you're interested in getting involved with the SFP and contributing to the growth of the web3 
+                            ecosystem, we encourage you to reach out and join our community today. Together, we can build a 
+                            better internet for all.
                         </p>
                         {/* <p>
                             The students will be guided by experienced mentors throughout their
