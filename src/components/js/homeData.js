@@ -208,32 +208,39 @@ export const CommunityPartners = [
 export const FAQs = [
     {
         questionId: "question1",
-        questionText: `What is Open source software (OSS)?`,
-        answerText: `A software for which the original source code is made freely 
-        available and may be redistributed and modified according to the 
-        requirement of the user.`,
+        questionText: `What is web3?`,
+        answerText: `Web3, also known as Web 3.0, is the next iteration of the internet that utilizes 
+        blockchain technology to create a decentralized and more secure network.`,
     },
     {
         questionId: "question2",
-        questionText: `Is there any registration fees?`,
-        answerText: `No, there’s no registration fees. It is absolutely free for participants.`,
+        questionText: `How is web3 different from the current web?`,
+        answerText: `Web3 is different from the current web (Web 2.0) in that it utilizes blockchain 
+        technology to create a decentralized network where users have more control over their data and 
+        transactions. This eliminates the need for centralized intermediaries and increases security 
+        and privacy.`,
     },
     {
         questionId: "question3",
-        questionText: `Who all can participate ?`,
-        answerText: `No matter if you are a beginner or an expert, India Tour of Open Source is open for 
-        everyone who has a zeal to learn new things and achieve heights.`,
+        questionText: `What are some examples of web3 applications?`,
+        answerText: `Web3 applications, also known as dApps, can include decentralized exchanges, 
+        prediction markets, social networks, and more. These dApps run on blockchain networks like 
+        Ethereum and allow users to interact with them in a decentralized and trustless manner.`,
     },
     {
         questionId: "question4",
-        questionText: `Any age limit for participation?`,
-        answerText: `No, it is open for all.`,
+        questionText: `How do I access web3 applications?`,
+        answerText: `To access web3 applications, you will need a web3-enabled browser such as 
+        MetaMask or Trust Wallet. These browsers allow you to interact with dApps by connecting to 
+        a blockchain network and providing a digital wallet to store your cryptocurrency.`,
     },
     {
         questionId: "question5",
-        questionText: `What will be the prizes and perks?`,
-        answerText: `All the participants with successful participation will get digital
-        certificates and some cool swags.`,
+        questionText: `What is the future of web3?`,
+        answerText: `The future of web3 is still uncertain, but it is likely that we will see more 
+        adoption of decentralized applications and a shift towards a more decentralized internet. 
+        With the advent of new technologies like sharding, interoperability, and layer 2 scaling 
+        solutions, the web3 ecosystem is expected to evolve rapidly in the coming years.`,
     },
     // {
     //     questionId: "question6",
@@ -245,11 +252,11 @@ export const FAQs = [
     //     questionText: `Can I participate in SWOC both as a participant and mentor?`,
     //     answerText: `You can participate either as a mentor or as a participant but not as both.`,
     // },
-    {
-        questionId: "question8",
-        questionText: `What if I have questions other than the one mentioned ?`,
-        answerText: `You can contact us at scriptfoundation@gmail.com , all your queries would be answered.`,
-    },
+    // {
+    //     questionId: "question8",
+    //     questionText: `What if I have questions other than the one mentioned ?`,
+    //     answerText: `You can contact us at scriptfoundation@gmail.com , all your queries would be answered.`,
+    // },
 
 ]
 
