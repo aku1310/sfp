@@ -422,7 +422,7 @@ class Home extends Component {
                                 })}
                             </div> */}
 
-                            <div className="btn-container p-4" style={{ "text-align": "center" }}>
+                            {/* <div className="btn-container p-4" style={{ "text-align": "center" }}>
                                 <br />
                                 <a
                                     href="https://drive.google.com/file/d/1po-yevUP5dweJiNdvuiEhsi_IyKlOub8/view?usp=sharing"
@@ -430,7 +430,7 @@ class Home extends Component {
                                     className="btn btn-info btn-lg"
                                 >Sponsor Us
                                 </a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
 
