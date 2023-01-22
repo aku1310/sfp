@@ -242,6 +242,36 @@ export const FAQs = [
         With the advent of new technologies like sharding, interoperability, and layer 2 scaling 
         solutions, the web3 ecosystem is expected to evolve rapidly in the coming years.`,
     },
+    {
+        questionId: "question6",
+        questionText: `Who is eligible to apply for the fellowship?`,
+        answerText: `The fellowship is open to anyone who is interested in working on open source projects, regardless of their background or experience level.`,
+    },
+    {
+        questionId: "question7",
+        questionText: `How do I apply for the fellowship?`,
+        answerText: `To apply for the fellowship, you will need to submit an application that includes information about yourself and the open source project you plan to work on. You can find more information and the application form on devfolio.`,
+    },
+    {
+        questionId: "question8",
+        questionText: `How long is the fellowship?`,
+        answerText: `The duration of the fellowship lasts for 2 months.`,
+    },
+    {
+        questionId: "question9",
+        questionText: `Will I be required to work on a specific project?`,
+        answerText: `No, you are free to propose and work on a project of your choice as long as it aligns with the goals of the Social Fellowship program.`,
+    },
+    {
+        questionId: "question10",
+        questionText: `How will my progress be tracked during the fellowship?`,
+        answerText: `Fellows are expected to provide regular updates on their progress, which will be reviewed by a mentor or project leader. Additionally, fellows are expected to participate in regular check-ins with the Social Fellowship team to discuss their progress and address any issues that may arise.`,
+    },
+    {
+        questionId: "question11",
+        questionText: `Will I be able to continue working on my project after the fellowship ends?`,
+        answerText: `Yes, fellows are encouraged to continue working on their projects after the fellowship ends. The Social Fellowship program provides resources and support for fellows to continue their work and make a long-term impact on the open source community.`,
+    },
     // {
     //     questionId: "question6",
     //     questionText: `By what time will the result be out?`,
