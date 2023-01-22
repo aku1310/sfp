@@ -93,7 +93,7 @@ class Home extends Component {
 
                 <header className="header">
                     <div className="header-content">
-                        <h1>Code Rush</h1>
+                        <h1>Social Fellowship Program</h1>
                         <div className="header-logo">
                             <img src="./img/sfp.png" />
                         </div>
