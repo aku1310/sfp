@@ -93,7 +93,7 @@ class Home extends Component {
 
                 <header className="header">
                     <div className="header-content">
-                        <h1>Social Fellowship Program</h1>
+                        <h1>Code Rush</h1>
                         <div className="header-logo">
                             <img src="./img/sfp.png" />
                         </div>
@@ -105,28 +105,27 @@ class Home extends Component {
                 <a name="about"></a>
                 <section className="body-content about-swoc" id="about">
                     <div className="about-content col-lg-7">
-                        <h3>About <span>Social Fellowship Program</span></h3>
+                    <h3>About <span>Code Rush</span></h3>
                         <p>
-                            The SFP, or Social Fellowship Program, is a community-driven initiative aimed at fostering the 
-                            growth and development of the web3 ecosystem. We believe that by fostering collaboration and 
-                            cooperation among members of the web3 community, we can help to build a more robust and resilient 
-                            platform for the future of the internet.
+                            Code Rush is an exciting hackathon event taking place at the prestigious LPU on 18-19th Febuary 2023. 
+                            This 24-hour event is designed to give attendees the opportunity to explore  and learn how hackers build 
+                            innovative ideas.
                         </p>
                         <p>
-                            Our mission is to provide support and resources to individuals and organizations working on 
-                            projects that align with the principles of web3, including decentralization, transparency, and 
-                            community-driven development. We believe that by working together, we can help to advance the 
-                            web3 ecosystem and bring about a more decentralized and open internet for all.
+                            At Code Rush, participants will have the chance to work with some of the leading experts in the field 
+                            and discover new ways of approaching Whether you're an experienced developer or just starting out, this 
+                            event is the perfect opportunity to learn and grow your skills.
                         </p>
                         <p>
-                            Our program includes a variety of activities and initiatives, including mentorship, networking, 
-                            and educational resources. We also host regular meetups and events to bring members of the 
-                            community together and foster collaboration and learning.
+                            Throughout the hackathon, attendees will have access to a range of resources and support to help them 
+                            bring their ideas to life. 
                         </p>
                         <p>
-                            If you're interested in getting involved with the SFP and contributing to the growth of the web3 
-                            ecosystem, we encourage you to reach out and join our community today. Together, we can build a 
-                            better internet for all.
+                            From technical workshops and mentor sessions to networking events and competitions, there's something 
+                            for everyone at Code Rush.
+                        </p>
+                        <p>
+                            So why wait? Join us at LPU in Febuary 2023 and discover innovation at Code Rush.
                         </p>
                         {/* <p>
                             The students will be guided by experienced mentors throughout their
