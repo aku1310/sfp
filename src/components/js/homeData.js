@@ -206,41 +206,71 @@ export const CommunityPartners = [
 ]
 
 export const FAQs = [
+    // {
+    //     questionId: "question1",
+    //     questionText: `What is Web3?`,
+    //     answerText: `Web3, also known as Web 3.0, is the next iteration of the internet that utilizes 
+    //     blockchain technology to create a decentralized and more secure network.`,
+    // },
+    // {
+    //     questionId: "question2",
+    //     questionText: `How is Web3 different from the current web?`,
+    //     answerText: `Web3 is different from the current web (Web 2.0) in that it utilizes blockchain 
+    //     technology to create a decentralized network where users have more control over their data and 
+    //     transactions. This eliminates the need for centralized intermediaries and increases security 
+    //     and privacy.`,
+    // },
+    // {
+    //     questionId: "question3",
+    //     questionText: `What are some examples of Web3 applications?`,
+    //     answerText: `Web3 applications, also known as dApps, can include decentralized exchanges, 
+    //     prediction markets, social networks, and more. These dApps run on blockchain networks like 
+    //     Ethereum and allow users to interact with them in a decentralized and trustless manner.`,
+    // },
+    // {
+    //     questionId: "question4",
+    //     questionText: `How do I access Web3 applications?`,
+    //     answerText: `To access web3 applications, you will need a web3-enabled browser such as 
+    //     MetaMask or Trust Wallet. These browsers allow you to interact with dApps by connecting to 
+    //     a blockchain network and providing a digital wallet to store your cryptocurrency.`,
+    // },
+    // {
+    //     questionId: "question5",
+    //     questionText: `What is the future of Web3?`,
+    //     answerText: `The future of web3 is still uncertain, but it is likely that we will see more 
+    //     adoption of decentralized applications and a shift towards a more decentralized internet. 
+    //     With the advent of new technologies like sharding, interoperability, and layer 2 scaling 
+    //     solutions, the web3 ecosystem is expected to evolve rapidly in the coming years.`,
+    // },
     {
         questionId: "question1",
-        questionText: `What is Web3?`,
-        answerText: `Web3, also known as Web 3.0, is the next iteration of the internet that utilizes 
-        blockchain technology to create a decentralized and more secure network.`,
+        questionText: `Who is eligible to apply for the fellowship?`,
+        answerText: `The fellowship is open to anyone who is interested in working on open source projects, regardless of their background or experience level.`,
     },
     {
         questionId: "question2",
-        questionText: `How is Web3 different from the current web?`,
-        answerText: `Web3 is different from the current web (Web 2.0) in that it utilizes blockchain 
-        technology to create a decentralized network where users have more control over their data and 
-        transactions. This eliminates the need for centralized intermediaries and increases security 
-        and privacy.`,
+        questionText: `How do I apply for the fellowship?`,
+        answerText: `To apply for the fellowship, you will need to submit an application that includes information about yourself and the open source project you plan to work on. You can find more information and the application form on devfolio.`,
     },
     {
         questionId: "question3",
-        questionText: `What are some examples of Web3 applications?`,
-        answerText: `Web3 applications, also known as dApps, can include decentralized exchanges, 
-        prediction markets, social networks, and more. These dApps run on blockchain networks like 
-        Ethereum and allow users to interact with them in a decentralized and trustless manner.`,
+        questionText: `How long is the fellowship?`,
+        answerText: `The duration of the fellowship lasts for 2 months.`,
     },
     {
         questionId: "question4",
-        questionText: `How do I access Web3 applications?`,
-        answerText: `To access web3 applications, you will need a web3-enabled browser such as 
-        MetaMask or Trust Wallet. These browsers allow you to interact with dApps by connecting to 
-        a blockchain network and providing a digital wallet to store your cryptocurrency.`,
+        questionText: `Will I be required to work on a specific project?`,
+        answerText: `No, you are free to propose and work on a project of your choice as long as it aligns with the goals of the Social Fellowship program.`,
     },
     {
         questionId: "question5",
-        questionText: `What is the future of Web3?`,
-        answerText: `The future of web3 is still uncertain, but it is likely that we will see more 
-        adoption of decentralized applications and a shift towards a more decentralized internet. 
-        With the advent of new technologies like sharding, interoperability, and layer 2 scaling 
-        solutions, the web3 ecosystem is expected to evolve rapidly in the coming years.`,
+        questionText: `How will my progress be tracked during the fellowship?`,
+        answerText: `Fellows are expected to provide regular updates on their progress, which will be reviewed by a mentor or project leader. Additionally, fellows are expected to participate in regular check-ins with the Social Fellowship team to discuss their progress and address any issues that may arise.`,
+    },
+    {
+        questionId: "question6",
+        questionText: `Will I be able to continue working on my project after the fellowship ends?`,
+        answerText: `Yes, fellows are encouraged to continue working on their projects after the fellowship ends. The Social Fellowship program provides resources and support for fellows to continue their work and make a long-term impact on the open source community.`,
     },
     // {
     //     questionId: "question6",

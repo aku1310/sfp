@@ -105,28 +105,8 @@ class Home extends Component {
                 <a name="about"></a>
                 <section className="body-content about-swoc" id="about">
                     <div className="about-content col-lg-7">
-                    <h3>About <span>Code Rush</span></h3>
+                    <h3>About <span>Social Fellowship Program</span></h3>
                         <p>
-                            Code Rush is an exciting hackathon event taking place at the prestigious LPU on 18-19th Febuary 2023. 
-                            This 24-hour event is designed to give attendees the opportunity to explore  and learn how hackers build 
-                            innovative ideas.
-                        </p>
-                        <p>
-                            At Code Rush, participants will have the chance to work with some of the leading experts in the field 
-                            and discover new ways of approaching Whether you're an experienced developer or just starting out, this 
-                            event is the perfect opportunity to learn and grow your skills.
-                        </p>
-                        <p>
-                            Throughout the hackathon, attendees will have access to a range of resources and support to help them 
-                            bring their ideas to life. 
-                        </p>
-                        <p>
-                            From technical workshops and mentor sessions to networking events and competitions, there's something 
-                            for everyone at Code Rush.
-                        </p>
-                        <p>
-                            So why wait? Join us at LPU in Febuary 2023 and discover innovation at Code Rush.
-
                         Social Fellowship is a unique opportunity for individuals who are passionate about the future of the open source and want to make a real impact in the world. This fellowship will be held from March 1st 2023 to April 30th 2023 and will provide participants with the knowledge, skills, and mentorship they need to become leaders in the world.
                         </p>
                         <p>
@@ -135,12 +115,6 @@ class Home extends Component {
                         <p>
                         The fellowship is open to anyone with a passion for the future of the tech and a desire to make a difference. Whether you are a technologist, a business leader, a policy maker, or simply someone who is curious about the potential of open source , we encourage you to apply for the Social Fellowship Program.
                         </p>
-                        {/* <p>
-                            The students will be guided by experienced mentors throughout their
-                            journey. They will learn the skills essential in the world of
-                            programming, all the while developing a deep appreciation for the
-                            world of open-source.
-                        </p> */}
                     </div>
                     <div className="about-vector">
                         {/* <img src="./img/about.png" /> */}
