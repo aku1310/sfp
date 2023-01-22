@@ -41,17 +41,6 @@ function buttonUnique(item) {
             ></div>
         )
     }
-
-    if (item.cardTitle.toLowerCase() == "punjab") {
-        return (
-            <div
-                class="apply-button"
-                data-hackathon-slug="indiatourpunjab"
-                data-button-theme="light"
-            ></div>
-        )
-    }
-
     else {
         return (<button href={item.applyLink} target="_blank"
             className={item.applyStatus == "Apply" ? "" : "disabled"}
@@ -105,9 +94,9 @@ class Home extends Component {
                 <header className="header">
                     <div className="header-content">
                         <h1>Social Fellowship Program</h1>
-                        {/* <div className="header-logo">
-                            <a href="./index.html"><img src="./img/logo-2.png" /></a>
-                        </div> */}
+                        <div className="header-logo">
+                            <img src="./img/sfp.png" />
+                        </div>
                     </div>
                 </header>
                 {/* body */}
