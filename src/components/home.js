@@ -107,26 +107,13 @@ class Home extends Component {
                     <div className="about-content col-lg-7">
                         <h3>About <span>Social Fellowship Program</span></h3>
                         <p>
-                            The SFP, or Social Fellowship Program, is a community-driven initiative aimed at fostering the 
-                            growth and development of the web3 ecosystem. We believe that by fostering collaboration and 
-                            cooperation among members of the web3 community, we can help to build a more robust and resilient 
-                            platform for the future of the internet.
+                        Social Fellowship is a unique opportunity for individuals who are passionate about the future of the open source and want to make a real impact in the world. This fellowship will be held from March 1st 2023 to April 30th 2023 and will provide participants with the knowledge, skills, and mentorship they need to become leaders in the world.
                         </p>
                         <p>
-                            Our mission is to provide support and resources to individuals and organizations working on 
-                            projects that align with the principles of web3, including decentralization, transparency, and 
-                            community-driven development. We believe that by working together, we can help to advance the 
-                            web3 ecosystem and bring about a more decentralized and open internet for all.
+                            Throughout the fellowship, participants will work closely with leading experts and practitioners in the field, gaining hands-on experience with cutting-edge technologies like open source . In addition to technical training, the fellowship will also focus on leadership development and community building, helping participants to become effective advocates for technologies and their potential to change the world.
                         </p>
                         <p>
-                            Our program includes a variety of activities and initiatives, including mentorship, networking, 
-                            and educational resources. We also host regular meetups and events to bring members of the 
-                            community together and foster collaboration and learning.
-                        </p>
-                        <p>
-                            If you're interested in getting involved with the SFP and contributing to the growth of the web3 
-                            ecosystem, we encourage you to reach out and join our community today. Together, we can build a 
-                            better internet for all.
+                        The fellowship is open to anyone with a passion for the future of the tech and a desire to make a difference. Whether you are a technologist, a business leader, a policy maker, or simply someone who is curious about the potential of open source , we encourage you to apply for the Social Fellowship Program.
                         </p>
                         {/* <p>
                             The students will be guided by experienced mentors throughout their
