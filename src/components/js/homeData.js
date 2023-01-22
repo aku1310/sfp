@@ -208,13 +208,13 @@ export const CommunityPartners = [
 export const FAQs = [
     {
         questionId: "question1",
-        questionText: `What is web3?`,
+        questionText: `What is Web3?`,
         answerText: `Web3, also known as Web 3.0, is the next iteration of the internet that utilizes 
         blockchain technology to create a decentralized and more secure network.`,
     },
     {
         questionId: "question2",
-        questionText: `How is web3 different from the current web?`,
+        questionText: `How is Web3 different from the current web?`,
         answerText: `Web3 is different from the current web (Web 2.0) in that it utilizes blockchain 
         technology to create a decentralized network where users have more control over their data and 
         transactions. This eliminates the need for centralized intermediaries and increases security 
@@ -222,21 +222,21 @@ export const FAQs = [
     },
     {
         questionId: "question3",
-        questionText: `What are some examples of web3 applications?`,
+        questionText: `What are some examples of Web3 applications?`,
         answerText: `Web3 applications, also known as dApps, can include decentralized exchanges, 
         prediction markets, social networks, and more. These dApps run on blockchain networks like 
         Ethereum and allow users to interact with them in a decentralized and trustless manner.`,
     },
     {
         questionId: "question4",
-        questionText: `How do I access web3 applications?`,
+        questionText: `How do I access Web3 applications?`,
         answerText: `To access web3 applications, you will need a web3-enabled browser such as 
         MetaMask or Trust Wallet. These browsers allow you to interact with dApps by connecting to 
         a blockchain network and providing a digital wallet to store your cryptocurrency.`,
     },
     {
         questionId: "question5",
-        questionText: `What is the future of web3?`,
+        questionText: `What is the future of Web3?`,
         answerText: `The future of web3 is still uncertain, but it is likely that we will see more 
         adoption of decentralized applications and a shift towards a more decentralized internet. 
         With the advent of new technologies like sharding, interoperability, and layer 2 scaling 
