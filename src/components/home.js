@@ -142,28 +142,19 @@ class Home extends Component {
                                                 );
                                             })}
                                             <div className="btn-apply">
-                                                 {/* {item.cardTitle.toLowerCase() == "web 3.0 fellowship" ? */}
-                                                    <div
-                                                        class="apply-button"
-                                                        data-hackathon-slug=""
+                                                {item.cardTitle.toLowerCase() == "social fellowship program" ?
+(                                                    <div 
+                                                        class="apply-button" 
+                                                        data-hackathon-slug="webtrailblazerfellowship" 
                                                         data-button-theme="light"
-                                                    ></div>
-
-                                                    {/* // :
-                                                    // (item.cardTitle.toLowerCase() == "punjab" ?
-                                                    //     (<div
-                                                            class="apply-button"
-                                                            data-hackathon-slug="indiatourpunjab"
-                                                            data-button-theme="light"
-                                                        ></div>)
-                                                        :
-                                                        (<a href={item.applyLink} target="_blank"
-                                                            className={item.applyStatus == "Apply" ? "" : "disabled"}
-                                                            readonly>{item.applyStatus}
-                                                        </a>) */}
-                                                
-                                                {/* {buttonUnique(item)} */}
-
+                                                    ></div>)
+                                                    :
+                                                    (<a href={item.applyLink} target="_blank"
+                                                        className={item.applyStatus.toLowerCase() == "register" ? "" : "disabled"}
+                                                        // disabled={item.applyStatus.toLowerCase() != "register" ? "disabled" : ""}
+                                                        readonly>{item.applyStatus}
+                                                    </a>)
+                                                }
                                             </div>
                                         </div>
                                     </div>
