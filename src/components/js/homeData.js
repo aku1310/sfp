@@ -1,7 +1,7 @@
 export const registerItems = [
     {
         cardTitle: "Social Fellowship Program",
-        cardText: `Registrations will start soon`,
+        cardText: `Register Now!`,
         applyLink: "",
         applyStatus:"Register",
         slug: ""
