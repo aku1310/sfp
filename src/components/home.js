@@ -14,41 +14,10 @@ import {
 } from './js/homeData'
 import Aos from 'aos';
 import 'aos/dist/aos.css';
+import Devfoliobutton from './Devfoliobutton';
 
 // import "react-responsive-carousel/lib/styles/carousel.min.css";
 import Carousel from 'react-elastic-carousel';
-
-function useEffectfun() {
-    React.useEffect(() => {
-        const script = document.createElement('script');
-        script.src = 'https://apply.devfolio.co/v2/sdk.js';
-        script.async = true;
-        script.defer = true;
-        document.body.appendChild(script);
-        return () => {
-            document.body.removeChild(script);
-        }
-    }, []);
-}
-
-function buttonUnique(item) {
-    if (item.cardTitle.toLowerCase() == "delhi") {
-        return (
-            <div
-                class="apply-button"
-                data-hackathon-slug="indiatourdelhi"
-                data-button-theme="light"
-            ></div>
-        )
-    }
-    else {
-        return (<button href={item.applyLink} target="_blank"
-            className={item.applyStatus == "Apply" ? "" : "disabled"}
-            readonly>{item.applyStatus}
-        </button>)
-    }
-}
-
 
 class Home extends Component {
     constructor(props) {
@@ -87,7 +56,6 @@ class Home extends Component {
         const { items } = this.state;
         return (
             <>
-                {useEffectfun}
                 <span hidden="true" id="page-name">Home</span>
                 {/* Header */}
 
@@ -142,12 +110,13 @@ class Home extends Component {
                                                 );
                                             })}
                                             <div className="btn-apply">
-                                                <div
+                                                <Devfoliobutton></Devfoliobutton>
+                                                {/* <div
                                                     className="apply-button"
                                                     data-hackathon-slug="webtrailblazerfellowship"
                                                     data-button-theme="light"
                                                     style={{ width: 2 + 'em' }}
-                                                ></div>
+                                                ></div> */}
 
                                             </div>
                                         </div>
